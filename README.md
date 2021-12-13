@@ -1,9 +1,10 @@
-### Olá 👋     Eu sou o  Henrique  Jacinto
+### Olá 👋     Eu sou o  Henrique  Jacinto 
 
-🎓 Graduado  em Analise  e Desenvolvimento de sistesmas,estudando atualmente  as  tec 
+<br>🎓 Graduado  em Analise  e Desenvolvimento de sistesmas,estudando atualmente  as  tec 
 
 
-## Tecnologias que eu uso no meu dia
+
+### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

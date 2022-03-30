@@ -1,6 +1,6 @@
+### Olá 👋  Eu sou o Henrique José 
 
-### Olá 👋 
-Sou recém-formado em  Análise e desenvolvimento de sistemasa procurando oportunidades na are de desenvolvimento web. 
+Sou recém-formado em  Análise e desenvolvimento de sistemasa busco oportunidades na are de desenvolvimento web. 
 - 🔭 Atualmente estou estudando trabalhando  com Analista de suporte  e  estudando desenvolvimento web (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente). 
 
 - 🌱 Atualmente estou aprendendo Fundamentos  em Front-End,Angular,Fundamentos de Java, java para Web 
